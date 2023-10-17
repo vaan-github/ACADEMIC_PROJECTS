@@ -1,0 +1,8 @@
+qrcode
+opencv-python
+numpy
+cmake
+wheel
+streamlit
+streamlit-option-menu
+

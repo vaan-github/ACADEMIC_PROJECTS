@@ -1,0 +1,11 @@
+python 3.8.18
+#ARCH LINUX 
+
+install pyenv
+install package through yay package manager since there might some error pop up 
+during pip installation.
+
+yay -S python-qrcode python-opencv python-streamlit 
+
+#RUN BY USING BELOW CMD 
+streamlit run main.py 
