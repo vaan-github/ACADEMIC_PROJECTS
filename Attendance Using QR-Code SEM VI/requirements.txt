@@ -1,8 +1,7 @@
 qrcode
 opencv-python
 numpy
-cmake
-wheel
 streamlit
-streamlit-option-menu
-
+streamlit_option_menu
+datetime
+Pillow
